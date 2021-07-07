@@ -1,0 +1,11 @@
+# Introdcution to YAML
+Person:
+	Name: "Chinna"
+	Occupation: 'Engineer'
+	age:	43
+Hobbies:
+	- cricket
+	- basket ball
+	
+Hobbies: - ["cricket", "Backertball"]
+
